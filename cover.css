@@ -12,10 +12,14 @@ text-align: center;
 
 #subtitle {
 color: aqua;
-text-align: center;
+text-align: right;
 font-size:medium;
 }
 
 #cover_image {
-
+display: flex;
+justify-content: center;
+align-items: center;
+width: 250px;
+height: 150px;
 }
